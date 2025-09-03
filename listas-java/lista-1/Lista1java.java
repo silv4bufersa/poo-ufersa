@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio; // vai ser modificado de acordo com o a pasta em que o seu arquivo foi criado.
 
 public class Lista1java {
     /*
