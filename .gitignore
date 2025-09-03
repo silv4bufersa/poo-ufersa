@@ -1,3 +1,6 @@
+*/ignore-folder/*
+.idea
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
