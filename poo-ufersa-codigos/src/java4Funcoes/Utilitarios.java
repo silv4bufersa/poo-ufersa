@@ -56,6 +56,5 @@ public class Utilitarios {
             return 1;
         }
         return num * fatorialRecursivo(num - 1);
-
     }
 }
