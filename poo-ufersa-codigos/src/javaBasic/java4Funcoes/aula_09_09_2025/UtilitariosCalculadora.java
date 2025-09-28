@@ -1,4 +1,4 @@
-package java4Funcoes.aula_09_09_2025;
+package javaBasic.java4Funcoes.aula_09_09_2025;
 
 import java.util.Scanner;
 

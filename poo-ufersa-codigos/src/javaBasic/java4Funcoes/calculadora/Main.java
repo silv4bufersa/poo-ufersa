@@ -1,6 +1,6 @@
-package java4Funcoes.calculadora;
+package javaBasic.java4Funcoes.calculadora;
 
-import java4Funcoes.Utilitarios;
+import javaBasic.java4Funcoes.Utilitarios;
 
 public class Main {
     public static void main(String[] args) {

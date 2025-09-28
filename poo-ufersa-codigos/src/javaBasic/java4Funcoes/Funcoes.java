@@ -1,4 +1,4 @@
-package java4Funcoes;
+package javaBasic.java4Funcoes;
 
 
 public class Funcoes {

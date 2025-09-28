@@ -1,8 +1,6 @@
-package java4Funcoes.calculadora;
+package javaBasic.java4Funcoes.calculadora;
 
-import java.util.Scanner;
-
-import static java4Funcoes.Utilitarios.pausaTerminal;
+import static javaBasic.java4Funcoes.Utilitarios.pausaTerminal;
 
 public class CalculadoraUtils {
     public void soma(int n1, int n2) {

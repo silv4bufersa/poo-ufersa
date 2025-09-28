@@ -1,4 +1,4 @@
-package java5revisaoQuestoes;
+package javaBasic.java5revisaoQuestoes;
 
 import java.util.ArrayList;
 import java.util.Arrays;
