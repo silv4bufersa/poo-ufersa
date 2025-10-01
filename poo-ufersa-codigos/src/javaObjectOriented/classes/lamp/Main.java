@@ -1,4 +1,4 @@
-package javaObjectOriented.classes;
+package javaObjectOriented.classes.lamp;
 
 public class Main {
     public static void main(String[] args) {

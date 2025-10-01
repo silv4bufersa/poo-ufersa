@@ -1,4 +1,4 @@
-package javaObjectOriented.classes;
+package javaObjectOriented.classes.lamp;
 
 public class Lamp {
     // campos ou características
@@ -7,17 +7,17 @@ public class Lamp {
     // métodos ou habilidades/funcionalidades
 
     /* public implícito */
-    void ligar() {
+    public void ligar() {
         ligada = true;
     }
 
-    void desligar() {
+    public void desligar() {
         if (ligada) {
             ligada = false;
         }
     }
 
-    String status() {
+    public String status() {
         if (ligada) {
             return "Ligada";
         } else {
